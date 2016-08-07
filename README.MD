@@ -1,1 +1,1 @@
-See https://Pagepro.github.io/Pagepro/awsmCounter for more details.
+See https://Pagepro.github.io/awsmCounter for more details.
