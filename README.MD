@@ -1,0 +1,1 @@
+See https://Pagepro.github.io/Pagepro/awsmCounter for more details.
