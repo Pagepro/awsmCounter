@@ -140,7 +140,7 @@ jQuery(document).ready(function () {
     $('.section').removeClass('active');
     $(this).parent().addClass('active');
     $($(this).attr('href')).addClass('active');
-    if ($(this).attr('href') === '#demo') {
+    if ($(this).attr('href') === '#demo' && $('.mn-number').length === 0) {
       initPlugin();
     }
   });
